@@ -6,7 +6,9 @@
 
 
 https://github.com/sushantst/sushantst/edit/main/README.md
- 🛠 Skills
+
+
+🛠 Skills
         python
         Machine Learning
         SQL
