@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @sushantst
-- 👀 I’m interested in machine learning & python
-- 🌱 I’m currently learning html.
+- 👋 Hi, I’m sushant
+-🐍 I’m interested in machine learning & python
 
 
 
