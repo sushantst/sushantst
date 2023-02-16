@@ -8,7 +8,10 @@ https://github.com/sushantst/sushantst/edit/main/README.md
 
 
 🛠 Skills
-       ![image](https://user-images.githubusercontent.com/106450499/219296538-303b03d4-9080-419f-89f9-df2bca0bc7b2.png)
+
+![image](https://user-images.githubusercontent.com/106450499/219296784-f7dae407-8ff0-4dad-9fab-10df6cc76dfb.png)
+![image](https://user-images.githubusercontent.com/106450499/219297288-620fb1fc-89a2-48e6-86c1-ef3e193458e9.png)
+
         python
         Machine Learning
         SQL
