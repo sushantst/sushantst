@@ -1,17 +1,10 @@
 - 👋 Hi, I’m sushant
-- I’m interested in 🎰 machine learning & 🐍 python
-
-
-
-
-https://github.com/sushantst/sushantst/edit/main/README.md
+- https://github.com/sushantst/sushantst/edit/main/README.md
 
 
 🛠 Skills
 
 ![image_1](https://user-images.githubusercontent.com/106450499/219304155-9e206c87-156b-4cd6-851f-cd05f46c50f6.png)
-
-
 
 👩‍💻 I'm currently working on Machine Learning
 
