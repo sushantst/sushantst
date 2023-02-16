@@ -1,5 +1,5 @@
 - 👋 Hi, I’m sushant
--🐍 I’m interested in machine learning & python
+- I’m interested in 🎰 machine learning & 🐍 python
 
 
 
@@ -8,6 +8,7 @@ https://github.com/sushantst/sushantst/edit/main/README.md
 
 
 🛠 Skills
+       ![image](https://user-images.githubusercontent.com/106450499/219296538-303b03d4-9080-419f-89f9-df2bca0bc7b2.png)
         python
         Machine Learning
         SQL
