@@ -9,10 +9,7 @@ https://github.com/sushantst/sushantst/edit/main/README.md
 
 🛠 Skills
 
-![image](https://user-images.githubusercontent.com/106450499/219296784-f7dae407-8ff0-4dad-9fab-10df6cc76dfb.png)
-
-
-![image](https://user-images.githubusercontent.com/106450499/219297288-620fb1fc-89a2-48e6-86c1-ef3e193458e9.png)
+![image](https://user-images.githubusercontent.com/106450499/219298423-6728bf59-d902-4bdd-91b4-393142317a37.png)
 
 
 ![image](https://user-images.githubusercontent.com/106450499/219297484-3f6fc1c8-c941-420b-9b0f-43a933648c50.png)
