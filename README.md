@@ -10,6 +10,6 @@
 
 💬 Ask me about anything you like
 
-📫 How to reach me https://www.instagram.com/sushant_st15/
+📫 How to reach me  https://www.linkedin.com/in/sushant-thakur-4a2452190/
 
 ⚡️ Fun fact :- Water makes different sounds depending on its temperature.
