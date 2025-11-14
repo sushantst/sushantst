@@ -9,7 +9,12 @@
 👩‍💻 I'm currently working on Web Development.
 
  Skills
+
+ 
  Primary Skills in C#,Asp.Net,Sql Server,Web Api,Azure,Angular.
+
+
+ 
  Secondary Skills in Python,Django,Machine Learning.
  
 
