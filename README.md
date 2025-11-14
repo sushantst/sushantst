@@ -8,7 +8,10 @@
 
 👩‍💻 I'm currently working on Web Development.
 
-Skills in C#(https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white),Asp.Net,Sql Server,Web Api,Azure.
+ Skills
+ Primary Skills in C#,Asp.Net,Sql Server,Web Api,Azure,Angular.
+ Secondary Skills in Python,Django,Machine Learning.
+ 
 
 💬 Ask me about anything you like
 
